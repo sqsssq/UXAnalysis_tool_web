@@ -1,1 +1,0 @@
-import{_ as t}from"./index.0bbac28f.js";const e={name:"home_view",data(){return{msgH:null}},created(){this.$router.replace({path:"/"})},computed:{initSign(){return 1},loadingText(){return"Loading"}},mounted(){this.msgH=1},methods:{fetchData(){}},components:{}};function n(a,o,r,_,s,c){return null}const d=t(e,[["render",n],["__scopeId","data-v-3a85f59c"]]);export{d as default};
